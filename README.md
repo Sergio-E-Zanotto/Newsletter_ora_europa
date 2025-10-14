@@ -22,7 +22,7 @@ Tutti i diritti relativi ai contenuti visivi appartengono ai rispettivi autori o
 ## Uso interno
 
 Questa repository è destinata **ad uso interno** del team comunicazione Europa.  
-Non è destinata a distribuione pubblica, né a utilizzo esterno senza consenso.
+Non è destinata a distribuzione pubblica, né a utilizzo esterno senza consenso.
 
 Per richieste, contattare:  
 [europa@territorio.movimentodrindrin.it](mailto:europa@territorio.movimentodrindrin.it)
