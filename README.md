@@ -1,4 +1,4 @@
-# Newsletter_ora_europa
+# Newsletter Europa ORA!
 
 Questa repository raccoglie i file sorgente (HTML, testo, materiali di supporto) della **sezione Europa** della newsletter del partito **ORA!**.
 
