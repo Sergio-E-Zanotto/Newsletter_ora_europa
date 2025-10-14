@@ -19,7 +19,7 @@ Tutti i diritti relativi ai contenuti visivi appartengono ai rispettivi autori o
 - `assets/` — eventuali file statici (loghi, font, etc.) approvati
 - `README.md` — questo file
 
-## 🧩Uso interno
+## Uso interno
 
 Questa repository è destinata **ad uso interno** del team comunicazione Europa.  
 Non è destinata a distribuione pubblica, né a utilizzo esterno senza consenso.
